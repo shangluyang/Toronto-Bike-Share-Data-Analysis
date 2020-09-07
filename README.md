@@ -1,0 +1,2 @@
+# Toronto-Bike-Share-Data-Analysis
+Bike Sharing Toronto is a bicycle sharing system located in Toronto. Recent years, there is a significant increasing on number of people using shared bike in Toronto, while leads to a rapid development of the Toronto bike sharing company. Therefore, I decide to make deep analysis using Bike share Toronto dataset and weather data to undertand the factors affecting the ride length for bike sharing customers.
